@@ -14,4 +14,4 @@ During my Internet of Things class [@cmda](https://github.com/CMDA), I came up w
     * HTTPSRedirect
 
 ## How to use
-I've written a manual on how to write & use this code. [Check it out here](https://github.com/karimeij/smardesk/tree/main/manual)!
+I've written a manual on how to write & use this code. [Check it out here](https://github.com/karimeij/smartdesk/tree/main/manual)!
