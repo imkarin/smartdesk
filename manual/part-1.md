@@ -26,7 +26,7 @@ I selected "Webapplication" (since I was going to be fetching data from this API
 ![image](https://user-images.githubusercontent.com/57796369/96643923-9129fe00-1328-11eb-8c5b-e6a129d073dc.png)
 
 
-*That's it for this part of the manual! We created a Google Cloud project, connected it to the Google Fit API and gave it OAuth credentials. In the next part we'll [fetch the Google Fit data in a Google Apps Script. 👉🏻](https://github.com/karimeij/smart-desk/blob/main/manual/part-2.md)*
+*That's it for this part of the manual! We created a Google Cloud project, connected it to the Google Fit API and gave it OAuth credentials. In the next part we'll [fetch the Google Fit data in a Google Apps Script. 👉🏻](https://github.com/karimeij/smartdesk/blob/main/manual/part-2.md)*
 
 
 ## Sources
