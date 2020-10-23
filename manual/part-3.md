@@ -57,7 +57,7 @@ After publishing the script the same way as before, my newly made web app now re
 
 ![image](https://user-images.githubusercontent.com/57796369/96647274-a35a6b00-132d-11eb-9781-9756a75a8d92.png)
 
-*That's it for this part! In the next part we'll [fetch data from this API with our Arduino. 👉🏻](https://github.com/karimeij/smartdesk/blob/main/manual/part-3.md)*
+*That's it for this part! In the next part we'll [fetch data from this API with our Arduino. 👉🏻](https://github.com/karimeij/smartdesk/blob/main/manual/part-4.md)*
 
 <br /> 
 
