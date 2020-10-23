@@ -173,7 +173,7 @@ And that's all for this manual! To summarize everything we did:
 - We turned our Google Apps Script into an API on its own, outputting the data in JSON.
 - We fetched our API's data with our Arduino, and changed the LED color depending on the amount of steps we'd made in the past hour.
 
-Thank you for reading! I definitely want to continue working on this Smart Desk project in the future. You can find the full code of this project on [GitHub](https://github.com/karimeij/smart-desk). ✨
+Thank you for reading! I definitely want to continue working on this Smart Desk project in the future. You can find the full code of this project on [GitHub](https://github.com/karimeij/smartdesk). ✨
 
 <br />
 
