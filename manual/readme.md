@@ -8,12 +8,12 @@ In this manual you'll read how I realized one feature of the Smart Desk: looking
 ## Table of contents
 Since we're working with multiple platforms, I've decided to split the code into four parts:
 
-[1. Setting up the project in the Google API Console](https://github.com/karimeij/smart-desk/blob/main/manual/part-1.md)
+[1. Setting up the project in the Google API Console](https://github.com/karimeij/smartdesk/blob/main/manual/part-1.md)
 
-[2. Fetching Google Fit data with Google Apps Script](https://github.com/karimeij/smart-desk/blob/main/manual/part-2.md)
+[2. Fetching Google Fit data with Google Apps Script](https://github.com/karimeij/smartdesk/blob/main/manual/part-2.md)
 
-[3. Using my Google Apps Script as an API ](https://github.com/karimeij/smart-desk/blob/main/manual/part-3.md)
+[3. Using my Google Apps Script as an API ](https://github.com/karimeij/smartdesk/blob/main/manual/part-3.md)
 
-[4. Fetching our API's data with the Arduino & turning it into output](https://github.com/karimeij/smart-desk/blob/main/manual/part-4.md)
+[4. Fetching our API's data with the Arduino & turning it into output](https://github.com/karimeij/smartdesk/blob/main/manual/part-4.md)
 
 Enjoy your read!
