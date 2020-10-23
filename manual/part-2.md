@@ -147,7 +147,7 @@ I ran the getMetrics function again, and this time I got no error messages! I ch
 
 The response looks empty, but I assumed that this was because it was too big to display in the logbook. I made the same exact request in the OAuth playground and it gave the correct response, so I knew everything was alright! ✨
 
-*And that's it for this part of the manual! We successfully fetched Google Fit data with a Google Apps Script, using OAuth2 authorization. In the next part we'll [turn this script into a web app, that outputs the fitness data as JSON. 👉🏻](https://github.com/karimeij/smart-desk/blob/main/manual/part-3.md)*
+*And that's it for this part of the manual! We successfully fetched Google Fit data with a Google Apps Script, using OAuth2 authorization. In the next part we'll [turn this script into a web app, that outputs the fitness data as JSON. 👉🏻](https://github.com/karimeij/smartdesk/blob/main/manual/part-3.md)*
 
 ## Sources
 * [https://developers.google.com/apps-script/api](https://developers.google.com/apps-script/api)
