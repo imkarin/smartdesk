@@ -13,5 +13,6 @@ During my Internet of Things class [@cmda](https://github.com/CMDA), I came up w
     * ArduinoJson
     * HTTPSRedirect
 
+
 ## How to use
 I've written a manual on how to write & use this code. [Check it out here](https://github.com/imkarin/smartdesk/tree/main/manual)!
